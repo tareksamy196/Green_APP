@@ -40,12 +40,6 @@ This platform also supports **environmental sustainability** by reducing waste a
 
 ---
 
-## 📷 Screenshots
-
-> _Add screenshots or screen recordings of the app UI here (optional)_
-
----
-
 ## 🚀 How to Run the Project
 
 ### 🔧 Backend (PHP)
@@ -60,13 +54,6 @@ This platform also supports **environmental sustainability** by reducing waste a
 2. Run `flutter pub get`
 3. Launch the emulator or connect a device
 4. Run `flutter run`
-
----
-
-## 📌 Contributors
-
-- **Tarek Samy Fathy** – Backend & Architecture
-- _Other team members if applicable_
 
 ---
 
