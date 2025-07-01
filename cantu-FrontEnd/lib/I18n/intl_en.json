@@ -1,0 +1,22 @@
+{
+  "title": "Cantu",
+  "login": "Login",
+  "signup": "Sign up",
+  "choose_language": "Choose Language",
+  "language_ar": "اللغة العربيه",
+  "language_en": "English",
+  "welcome": "Welcome",
+  "sign_in_message": "Sign in with your email",
+  "signup_message": "Sign up with your email",
+  "username": "User name",
+  "username_hint": "Enter your username",
+  "phone": "Phone number",
+  "phone_hint": "Enter your phone",
+  "email": "Email",
+  "email_hint": "Enter your email",
+  "password": "Password",
+  "password_hint": "Enter valid password",
+  "have_account": "have an account ?  ",
+  "no_account": "Don'\t have an account ? ",
+  "forget_password": "Forget password?"
+}

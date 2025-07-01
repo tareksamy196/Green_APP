@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309736634258",
+    "project_id": "cantu-53347",
+    "storage_bucket": "cantu-53347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309736634258:android:14db5f216a320fe024b34b",
+        "android_client_info": {
+          "package_name": "com.cantuteam.cantu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinqITfsV_v_SQN0YCJmHCh1-vszrLIWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
